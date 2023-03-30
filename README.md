@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning OpenGL, C++
 - 🤔 Want to see my ~~serious~~ projects? check [Mydrash](https://github.com/Mydrash)
 - 💡 Fun fact: I'm 14 years old.
-- ⚡ Skils:
+- ⚡ Skills:
     - Rust
     - C/C++
     - Python
