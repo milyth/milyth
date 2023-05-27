@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on [Sask Game Engine](https://github.com/Mydrash/Sask)
-- 🌱 I’m currently learning OpenGL, C++
+- 🔭 I’m currently making random projects ;P
+- 🌱 I’m currently learning Flutter
 - 🤔 Want to see my ~~serious~~ projects? check [Mydrash](https://github.com/Mydrash)
 - 💡 Fun fact: I'm 14 years old.
 - ⚡ Skills:
